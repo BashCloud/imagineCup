@@ -1,0 +1,1 @@
+https://spatial.virtualearth.net/REST/v1/data/e571c65f66de488ea9dde02ff57585b0/geoFences/TestBoundaries?spatialFilter=intersects(%27POINT(-122.389825%2037.776598)%27)&$format=json&key=bneAWOJdktXwP5i4cgWe~cf4jAcJUeD9X3nQLXEHjXQ~As-yWK2_R7Wxaehn8I3JIaTSkORIrlIQP66prVtVodG5MzrfC9p38sUaoasx25ih
